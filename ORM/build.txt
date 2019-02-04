@@ -1,0 +1,3 @@
+author = RiverOaken
+version = 0.1
+displayName = Oaken River Mod
