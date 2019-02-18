@@ -1,0 +1,12 @@
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\bin\Debug\ORM.dll
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\bin\Debug\ORM.pdb
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\bin\Debug\Terraria.exe
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\obj\Debug\ORM.csprojAssemblyReference.cache
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\obj\Debug\ORM.csproj.CoreCompileInputs.cache
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\obj\Debug\ORM.csproj.CopyComplete
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\obj\Debug\ORM.dll
+C:\Users\equin\Documents\My Games\Terraria\ModLoader\Mod Sources\ORM\obj\Debug\ORM.pdb
